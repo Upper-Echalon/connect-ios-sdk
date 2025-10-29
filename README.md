@@ -4,7 +4,7 @@
 
 The Connect iOS SDK allows you to embed our Mastercard Connect application anywhere you want within your own mobile applications.
 
-The Connect iOS SDK can be used with Mastercard Open Banking in the United States and Australia only.
+The Connect iOS SDK can be used with Mastercard Open Finance in the United States and Australia only.
 
 The functionality available with Connect varies slightly between regions. For details of how to integrate Connect using the Connect SDKs see the following:
 
@@ -22,7 +22,7 @@ The functionality available with Connect varies slightly between regions. For de
 
 The Connect iOS SDK supports iOS 15.6 or later.
 
-Note that this Connect SDK is not suitable for Mastercard Open Banking Europe. 
+Note that this Connect SDK is not suitable for Mastercard Open Finance Europe. 
 
 ## ConnectWrapper Swift Sample App
 

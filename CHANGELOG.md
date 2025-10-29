@@ -1,5 +1,9 @@
 # Connect iOS SDK ChangeLog
 
+## Version 3.1.1 - 2025-10-29
+### Changes
+- Fixed modal layout issue causing footer logo of Connect screen to be cut off at bottom.
+
 ## Version 3.1.0 - 2025-03-11
 ### Changes
 - Added support for SwiftUI
